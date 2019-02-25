@@ -1,0 +1,7 @@
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Учеба\Практика КПиЯП\1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
