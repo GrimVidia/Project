@@ -36,14 +36,7 @@ namespace ConsoleApp1
             Name = "Шестеренка Z7 ";
             Cipher = "282fdk4sz ";
             Amount = 7;
-        }
-
-        public Product(string Name, string Cipher, int Amount)
-        {
-            this.Name = Name;
-            this.Cipher = Cipher;
-            this.Amount = Amount;
-        }
+        }       
     }
     
     class Program
